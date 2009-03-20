@@ -1,0 +1,14 @@
+The SNUG wordpress plugin, along with a modification to the adopted Social Network name
+syntax, it will get a users profile for a Socail Network.
+
+Current syntax for a user on Twitter would be @joehandle, with a simple modification to
+this, @joehandle(twitter) it will generate the full URL to joehandle's Twitter page
+
+http://twitter.com/joehandle
+
+Twitter example:
+@joehandle(twitter) ==> <a href="http://twitter.com/joehandle">@joehandle</a>
+
+Plurk example
+@joehandle(plurk) ==> <a href="http://plurk.com/joehandle">@joehandle</a>
+
