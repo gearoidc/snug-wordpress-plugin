@@ -12,3 +12,9 @@ Twitter example:
 Plurk example
 @joehandle(plurk) ==> <a href="http://plurk.com/joehandle">@joehandle</a>
 
+Install
+------
+0. copy into plugins folder
+1. activate
+2. no more steps :)
+
